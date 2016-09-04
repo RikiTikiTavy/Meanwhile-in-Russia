@@ -1,0 +1,29 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+ .jumbotron {
+  text-align:center;
+  color: red;
+    }
+
+    ul.nav, .jumbotron {
+    	font-family: 'Open Sans Condensed', sans-serif;
+    }
+    ul.nav{
+    	font-size: 22px;
+    }
+  .jumbotron h1 {
+  	margin-top: 0px;
+  	margin-bottom: 30px;
+  }
+ .btn-lg{
+        fong-size: 36px;
+        color: yellow;
+      }
+
+  .jumbotron p {
+  	color: gray;
+  }
