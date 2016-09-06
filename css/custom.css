@@ -7,6 +7,7 @@ body {
  .jumbotron {
   text-align:center;
   color: red;
+  background-image: url('../images/Kremlin.jpg');
     }
 
     ul.nav, .jumbotron {
@@ -26,4 +27,17 @@ body {
 
   .jumbotron p {
   	color: gray;
+  	font-weight: 100;
+  	padding: 0 50px;
   }
+ 	.homepage { 		
+    text-align: center;
+ 	}
+
+ 	.homepage h2 {
+ 		    font-size: 30px;
+    font-family: arvo, courier, serif;
+ 	}
+ 	.homepage p {
+ 		font-size: 20px;
+ 	}
